@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+
+header{
+    text-align: center;
+}
+
+.section{
+    height: 100vh;
+}
+#main{
+    width: 100%;
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
